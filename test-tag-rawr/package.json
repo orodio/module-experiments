@@ -1,0 +1,12 @@
+{
+  "name": "@qvvg/test-tag-rawr",
+  "version": "0.0.3",
+  "description": "test module please ignore",
+  "sideEffects": false,
+  "main": "tag.cjs.js",
+  "unpkg": "tag.esm.js",
+  "dependencies": {
+    "@qvvg/test-make-tag": "0.0.6",
+    "@qvvg/test-is-tag": "0.0.6"
+  }
+}

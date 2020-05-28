@@ -1,0 +1,8 @@
+{
+  "name": "@qvvg/test-make-tag",
+  "version": "0.0.6",
+  "description": "test module please ignore",
+  "sideEffects": false,
+  "main": "make-tag.cjs.js",
+  "unpkg": "make-tag.esm.js"
+}

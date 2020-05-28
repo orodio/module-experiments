@@ -1,0 +1,8 @@
+{
+  "name": "@qvvg/test-is-tag",
+  "version": "0.0.6",
+  "description": "test module please ignore",
+  "sideEffects": false,
+  "main": "is-tag.cjs.js",
+  "unpkg": "is-tag.esm.js"
+}
